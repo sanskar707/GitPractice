@@ -1,2 +1,5 @@
-console.log("EcliPsE")
-console.log("W3D")
+for(let i = 1; i <= 10; i++){
+    console.log(i)
+}
+
+console.log("EcLiPsE")
